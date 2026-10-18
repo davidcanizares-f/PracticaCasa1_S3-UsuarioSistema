@@ -28,4 +28,5 @@ public class MainUsuario {
         u.desactivar();
         System.out.println("\nActivo tras desactivar(): " + u.isActivo());
     }
+
 }
